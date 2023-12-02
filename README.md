@@ -1,7 +1,4 @@
-Tentu, berikut adalah contoh `README.md` dalam format Markdown tanpa terputus:
-
-```markdown
-# Photo Storage Web App
+Photo Storage Web App
 
 ## Description
 
